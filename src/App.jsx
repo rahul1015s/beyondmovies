@@ -28,10 +28,7 @@ const API_URL = 'https://www.omdbapi.com?apikey=111f50ee';
       setMovies(data.Search);
     };
 
-    // function to get movies details  Now its not working
-
-
-
+  
     const fetchMovieDetails = async (imdbID) => {
       const response = await fetch(`${API_URL}&i=${imdbID}`);
 
