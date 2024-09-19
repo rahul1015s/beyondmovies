@@ -1,3 +1,8 @@
+
+# Beyond Movies
+is an online portal that allows its users to explore and discover a huge diversity of films.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
