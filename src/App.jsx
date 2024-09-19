@@ -4,7 +4,7 @@ import SearchIcon from './search.svg';
 import MovieCard from './MovieCart';
 import { useState } from 'react';
 
-const API_URL = 'http://www.omdbapi.com?apikey=111f50ee';
+const API_URL = 'https://www.omdbapi.com?apikey=111f50ee';
 
 
 
